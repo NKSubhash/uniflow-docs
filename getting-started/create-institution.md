@@ -18,13 +18,13 @@ Make sure you have:
 
 ## Procedure
 
-1. Log in to UniFlow.
-2. From the main navigation, select **Administration** → **Institutions**.
-3. Click **Create Institution**.
+01. Log in to UniFlow.
+02. From the main navigation, select **Administration** → **Institutions**.
+03. Click **Create Institution**.
    
 Result: The **Create Institution** form opens.
 
-4. In the **Create Institution** form, fill in the following fields:
+04. In the **Create Institution** form, fill in the following fields:
 
 | Field | Description |
 |------|-------------|
@@ -34,12 +34,12 @@ Result: The **Create Institution** form opens.
 | Time zone | Determines academic and billing schedules. |
 | Primary contact email | Receives system notifications. |
 
-5. Configure the academic calendar.
+05. Configure the academic calendar.
 
 Select:
 - Start and end dates for the academic year.  
 - Term structure (Semester, Trimester, or Quarter). 
-6. Click **Create Institution**.
+06. Click **Create Institution**.
 
 Result: UniFlow creates a new tenant and displays a confirmation message.
 
