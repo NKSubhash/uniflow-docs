@@ -66,3 +66,7 @@ UniFlow connects to external systems such as:
 - Government reporting platforms  
 
 ---
+
+## Documentation
+
+- [Getting Started – Create an Institution](getting-started/create-institution.md)
