@@ -70,3 +70,4 @@ UniFlow connects to external systems such as:
 ## Documentation
 
 - [Getting Started – Create an Institution](getting-started/create-institution.md)
+- [Core Workflow – Admit a Student](workflows/admit-student.md)
