@@ -1,3 +1,7 @@
+[← Back to UniFlow Home](../README.md)
+
+---
+
 # Create an Institution in UniFlow
 
 Each university must create an institution in UniFlow. Each institution represents a separate, secure environment with its own users, students, and data.
