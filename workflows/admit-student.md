@@ -2,7 +2,7 @@
 
 ---
 
-# Admit a Student
+# Admit a student
 
 Admit an applicant and convert them into an enrolled student in UniFlow.
 
@@ -50,9 +50,9 @@ Result: UniFlow emails the offer letter to the applicant.
 ### Result
 
 UniFlow:
-- Creates a student profile  
-- Assigns a student ID  
-- Links the student to the selected program and term  
+- Creates a student profile.  
+- Assigns a student ID.  
+- Links the student to the selected program and term.  
 
 ---
 
