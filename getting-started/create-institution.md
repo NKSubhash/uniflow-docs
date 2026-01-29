@@ -22,6 +22,7 @@ Make sure you have:
 02. From the main navigation, select **Administration** → **Institutions**.
 03. Click **Create Institution**.
 04. In the **Create Institution** form, fill in the following fields:
+
 | Field | Description |
 |------|-------------|
 | Institution name | The official name of the university. |
@@ -29,6 +30,7 @@ Make sure you have:
 | Country | Used for reporting and compliance. |
 | Time zone | Determines academic and billing schedules. |
 | Primary contact email | Receives system notifications. |
+
 05. Configure the academic calendar.
 Select:
 - Start and end dates for the academic year.  
