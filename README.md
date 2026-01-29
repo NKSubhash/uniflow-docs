@@ -11,7 +11,7 @@ Universities use UniFlow to:
 - Support faculty and administrative workflows  
 - Integrate with external systems such as finance and government reporting portals  
 
-UniFlow is built for **enterprise-grade reliability** with **modern SaaS usability**.
+UniFlow is built for enterprise-grade reliability with modern SaaS usability.
 
 ---
 
